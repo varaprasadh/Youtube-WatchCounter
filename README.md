@@ -1,4 +1,4 @@
-# Youtube-WatchCounter
+# Youtube-pip
 an browser extension that keeps track of how many times you have seen a video on youtube.
 
 ***currently limited to track frequent 100 vidoes***
