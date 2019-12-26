@@ -1,0 +1,27 @@
+.youtube_pip_container{
+    position:absolute;
+    left: 50%;
+    bottom: 0%;
+    width:6em;
+    height: 100%;
+    transform: translateX(-50%);
+    z-index: 9999;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    pointer-events: none;
+}
+.youtube-pip-info{
+    display: flex;
+    align-items: center;
+}
+._glass_img{
+    width: 50%;
+    height: 50%;
+}
+._count{
+    font-weight: bold;
+    font-size:20px;
+    color: rgb(245, 245, 245);
+    padding:0px 10px 0px 10px;
+}
